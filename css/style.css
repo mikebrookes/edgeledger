@@ -199,6 +199,10 @@ p {
   width: 60%;
 }
 
+.map {
+  background: url('../img/map.jpg') no-repeat center center/cover;
+
+}
 /* Section: Contact */
 #contact {
   display: flex;
